@@ -1,5 +1,4 @@
- 
-print("Welcome to Aarya's Calculator")
+ print("Welcome to Aarya's Calculator")
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 Operations = ("""To perform specific operation press "1" for addition""",
