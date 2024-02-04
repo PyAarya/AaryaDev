@@ -1,22 +1,4 @@
-#Operators
-# print(9 + 2)
-# print(15 - 7)
-# print(8 * 2)
-# print(8 / 2)
-# print(8 // 2)  #floor division
-# print(8 % 3)  #modulus
-# print(2**3)  #exponential
-# print(4**3)
-# print(2**4)
-
-# a = 20
-# b = 50
-
-# print("The value of", a, "-", b, "is: ", a-b)
-# print("The value of", a, "+", b, "is: ", a+b)
-# print("The value of", a, "*", b, "is: ", a*b)
-# print("The value of", a, "/", b, "is: ", a/b)
-
+ 
 print("Welcome to Aarya's Calculator")
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
@@ -36,8 +18,3 @@ elif (Perform == "4"):
   print("The value of", a, "/", b, "is:", a / b)
 else:
   print("Invalid Input")
-
-# print("The value of", a, "+", b, "is: ", a+b)
-# print("The value of", a, "-", b, "is: ", a-b)
-# print("The value of", a, "*", b, "is: ", a*b)
-# print("The value of", a, "/", b, "is: ", a/b)
